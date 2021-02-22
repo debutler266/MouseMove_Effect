@@ -29,7 +29,7 @@ section h2 {
   position: absolute;
   width: 100%;
   height: 100%;
-  background: #ff2562;
+  background: #db1233;
   pointer-events: none; /* pointer events*/
   transition: 0.1s;
   clip-path: circle(50px at var(--x) var(--y)); /*clip path */
